@@ -13,7 +13,7 @@ I'm a software developer specializing in building clean, scalable applications w
 ## Tech Stack
 
 **Frontend & Mobile:**
-Electron,React, React Native, Expo, Tailwind CSS, TypeScript, Vite
+Electron,React, React Native, Expo,Nextjs, Tailwind CSS, TypeScript, Vite
 
 **Backend & Databases:**
 Springboot,Node.js, Express, Firebase, Postgresql 
